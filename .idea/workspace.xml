@@ -1,14 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="762ac2e4-dc57-445c-8845-2450b209473a" name="Changes" comment="" />
+    <list default="true" id="762ac2e4-dc57-445c-8845-2450b209473a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment/fib_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/fib_series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FUNCTION.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FUNCTION.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Assignment_8/Refactor_emp_wage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Assignment_8/Refactor_emp_wage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Assignment_8/cal_wage_month_uc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Assignment_8/cal_wage_month_uc5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Assignment_8/daily_wage_uc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Assignment_8/daily_wage_uc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Assignment_8/emp_attendance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Assignment_8/emp_attendance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Assignment_8/total_working_hour_uc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Assignment_8/total_working_hour_uc6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz_Day_4_Assignment/Employee_Wage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz_Day_4_Assignment/Employee_Wage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/month.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/month.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/pattern3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/vovel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Bridgelabz_swich_case/vovel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz_class/class_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz_class/class_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz_class/multi_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz_class/multi_class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz_class/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz_class/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz_oops/calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz_oops/calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz_oops/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz_oops/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz_oops/stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz_oops/stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/day_12_Assignment/account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/day_12_Assignment/account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_6_assignment/CouponQues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_6_assignment/CouponQues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_6_assignment/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_6_assignment/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_6_assignment/fib_series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_6_assignment/fib_series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_6_assignment/perfect_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_6_assignment/perfect_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_6_assignment/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_6_assignment/prime_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_6_assignment/reverse_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_6_assignment/reverse_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empparttime_uc3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/empparttime_uc3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empswitch_uc4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/empswitch_uc4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empwage_uc2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/empwage_uc2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empwage_uc5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/empwage_uc5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/empwagewhile_uc6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/empwagewhile_uc6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flipconin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flipconin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leapyear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leapyear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mathmeticaloperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mathmeticaloperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poweroftwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poweroftwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/class_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/class_object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/interface_concept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/interface_concept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/length_equal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/length_equal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/oddeven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/oddeven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/oops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/switchcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/switchcase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/whileloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/whileloop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prime_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prime_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/snakeladder.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FkdzwIa4fzWf5q1Atssd8HpWSn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,9 +95,95 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/abc/RFP-212",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.demo">
+    <configuration name="Stock (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.class_object" />
+      <module name="RFP-212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.Stock" />
+      <module name="RFP-212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.demo" />
+      <module name="RFP-212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Bridgelabz_swich_case.pattern2" />
+      <module name="RFP-212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bridgelabz_swich_case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Bridgelabz_swich_case.pattern3" />
+      <module name="RFP-212" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bridgelabz_swich_case.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.Stock (1)" />
+        <item itemvalue="Application.Stock" />
+        <item itemvalue="Application.pattern3" />
+        <item itemvalue="Application.pattern2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

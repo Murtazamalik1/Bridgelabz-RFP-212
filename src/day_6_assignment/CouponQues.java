@@ -1,6 +1,7 @@
 package day_6_assignment;
+import java.util.Arrays;
 
-public class coupon {
+public class CouponQues {
     public static void main(String[] args) {
 // iterate the loop until get N distinct number
         int number = 10;
